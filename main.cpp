@@ -10,5 +10,3 @@ int main()
     cout << "from Git Test 2";
     return 0;
 }
-
-int a() {}

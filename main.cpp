@@ -7,3 +7,5 @@ int main()
     cout << "from Git Test 1";
     return 0;
 }
+
+int a() {}
